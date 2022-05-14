@@ -491,7 +491,7 @@ function TopSection({ transferNative, transfer, account, enableWeb3 }) {
             Wait for few seconds, go to PLC official collection to view your NFT{" "}
             <a
               href="https://opensea.io/collection/proudlionsclub-official"
-              target="_blank"
+            
               style={{ color: "white" }}
             >
               {" "}
